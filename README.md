@@ -14,6 +14,7 @@ As I strive to be successful, my goal is to always be mindful of my peers. Invid
 # My Projects
 
 ## Dreamojob
+
 <summary>Click to expand!</summary>
 
 <details>
@@ -42,7 +43,7 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 - Database: https://github.com
 </details>
 
-##
+## Spacefleet
 
 <details>
 <summary>Click to expand!</summary>
