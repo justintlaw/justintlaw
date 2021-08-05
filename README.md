@@ -9,7 +9,7 @@ I am passionate about learning new technologies and using them to solve problems
 > Educating the mind without educating the heart is no education at all.
 > -- Aristotle
 
-As I strive to be successful, my goal is to always be mindful of my peers. Inviduals who can empathize with others are not only more likely to succeed, but they can also help others do well.
+As I strive to be successful, my goal is to always be mindful of my peers. Inviduals who can empathize with others are not only more likely to succeed, but they can also help others to succeed as well.
 
 # My Projects
 
