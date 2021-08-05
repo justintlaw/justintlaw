@@ -33,12 +33,10 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 - Other miscellaneous services to support the stack (Secrets Manager, Lambda, etc.)
 
 ### Related Repos (placeholders, fix later):
-Frontend
-- https://github.com
-API
-- https://github.com
-Database
-- https://github.com
+
+- Frontend: https://github.com
+- API: https://github.com
+- Database: https://github.com
 
 <!--
 **justintlaw/justintlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
