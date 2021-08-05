@@ -1,7 +1,7 @@
 ## Hello 😄
 
 ```diff
-Skip to the bottom of this readme if you'd like to jump straight to my projects.
+(#my-projects) Skip to the bottom of this readme if you'd like to jump straight to my projects.
 ```
 
 Thanks for visting my github! I am passionate Software Developer and student of Brigham Young University.
