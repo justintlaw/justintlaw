@@ -1,7 +1,7 @@
 ## Hello 😄
 
 Skip to the bottom of this readme if you'd like to jump straight to my projects.
-
+<span style="color:blue">blue</span>
 Thanks for visting my github! I am passionate Software Developer and student of Brigham Young University.
 
 ### What's interests me?
