@@ -3,7 +3,7 @@
 Skip to the bottom of this readme if you'd like to jump straight to my projects.
 
 ```diff
-- text in red
+text in red
 ```
 
 "-! Warning !-"
