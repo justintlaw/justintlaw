@@ -3,7 +3,7 @@
 Thanks for visting my github! I am passionate Software Developer and student of Brigham Young University.
 
 ### What's interests me?
-I am passionate about learning new technologies and using them to solve problems. In particular, I love developing solutions using cloud computing services such as Amazon Web Services. In both my school work and personal projects, I work hard to fully understand the topics I am tackling, rather than just doing enough to get by.
+I am always excited to learn new technologies and use them to solve problems. In particular, I love developing solutions using cloud computing services such as Amazon Web Services. In both my school work and personal projects, I work hard to fully understand the topics I am tackling, rather than just doing enough to get by.
 
 ### What do I value?
 > Educating the mind without educating the heart is no education at all.
