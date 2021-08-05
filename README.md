@@ -35,6 +35,8 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 - S3/Cloudfront (For static hosting of the site)
 - Cognito (For registering users)
 - ECS/Fargate (For the Node.js container)
+- Application Load Balancer (To handle load balancing for the fargate tasks)
+- API Gateway (To enable calls to endpoints on the backend container
 - VPC (For separating services into public and private subnets)
 - Amazon RDS (For the MySQL database)
 - Other miscellaneous services to support the stack (Secrets Manager, Lambda, etc.)
