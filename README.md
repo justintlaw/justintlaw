@@ -28,7 +28,7 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 
 **Front-end**: HTML, CSS, JavaScript, Vue.js, Vuetify
 
-**Back-end**: Node.js running on a docker container connected to a MySQL database (Objection.js was used as a ORM for an "model-first" approach to the database)
+**Back-end**: Node.js running on a docker container connected to a MySQL database (Objection.js was used as an ORM for a "model-first" approach to the database)
 
 **Infrastructure**: Built on AWS. Almost all of the infrastructure was developed using the Typescript AWS CDK.
 
