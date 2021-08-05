@@ -38,6 +38,15 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 - API: https://github.com
 - Database: https://github.com
 
+## Spacefleet
+I completed this project last Fall. It's purpose was to learn more of Python, and to use a variety of data structures in a console based application. The project is a simple game where the user manages their space fleet and sends it on cargo missions. A fleet can be attacked, and the majority of the programming for the project focused on the battle simulation that happens in the console using some formatting and loading bars to show the status of each fleet. Primarily the simulator uses a queue to process the guns of each ship so that they are all able to fire once during an iteration.
+
+It should be noted that while the battle simulator works, the project is not finished as I stopped once I was satisifed with what I had learned.
+
+**Repo**: https://github.com/justintlaw/SpaceFleet
+
+
+
 <!--
 **justintlaw/justintlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
