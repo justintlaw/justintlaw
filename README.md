@@ -13,7 +13,9 @@ As I strive to be successful, my goal is to always be mindful of my peers. Invid
 
 # My Projects
 
-## <summary>Dreamjob</summary>
+## Dreamojob
+<summary>Click to expand!</summary>
+
 <details>
 Over the summer of 2021, I have been working on a full-stack project to increase my skills in a variety of areas. This has culminated in the "dreamjob" project, which is a basic app that allows the user to save jobs on the website, as well as make a "timeline" of their career using those jobs to visualize how their career could look like. The webapp is optimized for both desktop and mobile (with more extensive testing done on Windows and iOS).
 
@@ -40,14 +42,17 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 - Database: https://github.com
 </details>
 
-## <summary>Spacefleet</summary>
-<detail>
+##
+
+<details>
+<summary>Click to expand!</summary>
+
 I completed this project Fall 2020. It's purpose was to learn more of Python, and to use a variety of data structures in a console based application. The project is a simple game where the user manages their space fleet and sends it on cargo missions. A fleet can be attacked, and the majority of the programming for the project focused on the battle simulation that happens in the console using some formatting and loading bars to show the status of each fleet. Primarily the simulator uses a queue to process the guns of each ship so that they are all able to fire once during an iteration.
 
 It should be noted that while the battle simulator and some other features work, the project is not finished as I stopped once I was satisifed with what I had learned.
 
 **Repo**: https://github.com/justintlaw/SpaceFleet
-</detail>
+</details>
 
 <!--
 **justintlaw/justintlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
