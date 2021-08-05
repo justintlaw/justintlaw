@@ -6,6 +6,8 @@ Skip to the bottom of this readme if you'd like to jump straight to my projects.
 - text in red
 ```
 
+-! Warning !-
+
 Thanks for visting my github! I am passionate Software Developer and student of Brigham Young University.
 
 ### What's interests me?
