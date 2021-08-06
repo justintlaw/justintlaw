@@ -41,7 +41,7 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 - Amazon RDS (For the MySQL database)
 - Other miscellaneous services to support the stack (Secrets Manager, Lambda, etc.)
 
-### Related Repos (placeholders, fix later):
+### Related Repos:
 
 - Frontend: https://github.com/justintlaw/dreamjob
 - API: https://github.com/justintlaw/dreamjob-api
