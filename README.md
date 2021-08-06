@@ -43,9 +43,9 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 
 ### Related Repos (placeholders, fix later):
 
-- Frontend: https://github.com
-- API: https://github.com
-- Database: https://github.com
+- Frontend: https://github.com/justintlaw/dreamjob
+- API: https://github.com/justintlaw/dreamjob-api
+- Database: https://github.com/justintlaw/dreamjob-db
 </details>
 
 ## Spacefleet
