@@ -5,19 +5,17 @@
 Thanks for visting my github! I am passionate Software Developer and Masters of Information Systems Management student at Brigham Young University Marriott School of Business.
 
 ### What interests me?
-I am always excited to learn new technologies and use them to solve problems. In particular, I love developing solutions using cloud computing services such as Amazon Web Services. In both my school work and personal projects, I work hard to fully understand the topics I am tackling, rather than just doing enough to get by.
+I love developing solutions using cloud computing services such as Amazon Web Services. I am always excited to learn new technologies and use them to solve problems. In both my school work and personal projects, I work hard to fully understand the topics I am tackling, rather than just doing enough to get by.
 
 ### What do I value?
 > Educating the mind without educating the heart is no education at all.
 > -- Aristotle
 
-As I strive to be successful, my goal is to always be mindful of my peers. Inviduals who can empathize with others are not only more likely to succeed, but they can also help others to succeed as well.
+As I strive to be successful, my goal is to always be mindful of my peers. It has been my experience that individuals who can empathize with others are not only more likely to succeed, but help others to succeed as well.
 
 # My Projects
 
-## Dreamjob
-
-
+## Dreamjob - Full-stack project using AWS, Node.js, and Vuetify/Vue.js
 
 <details>
 <summary>Click to expand!</summary>
@@ -50,7 +48,7 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 - Database: https://github.com/justintlaw/dreamjob-db
 </details>
 
-## Spacefleet
+## Spacefleet - Console based application using Python
 
 <details>
 <summary>Click to expand!</summary>
