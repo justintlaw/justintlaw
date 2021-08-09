@@ -2,7 +2,7 @@
 
 Thanks for visting my github! I am passionate Software Developer and Masters of Information Systems Management student at Brigham Young University Marriott School of Business.
 
-### What's interests me?
+### What interests me?
 I am always excited to learn new technologies and use them to solve problems. In particular, I love developing solutions using cloud computing services such as Amazon Web Services. In both my school work and personal projects, I work hard to fully understand the topics I am tackling, rather than just doing enough to get by.
 
 ### What do I value?
