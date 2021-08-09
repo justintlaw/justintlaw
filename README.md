@@ -1,4 +1,4 @@
-## Justin Lawrence | Graduating April 2023
+## Graduating April 2023
 
 ## Hello! 😄
 
