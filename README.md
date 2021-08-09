@@ -1,4 +1,4 @@
-## Hello! 😄
+## Hello! 😄 | Justin Lawrence | Graduating April 2023
 
 Thanks for visting my github! I am passionate Software Developer and Masters of Information Systems Management student at Brigham Young University Marriott School of Business.
 
