@@ -41,8 +41,9 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 - Amazon RDS (For the MySQL database)
 - Other miscellaneous services to support the stack (Secrets Manager, Lambda, etc.)
   
+### Infrastructure Diagram
   <details>
-  <summary>Infrastructure Diagram</summary>
+  <summary>Click to reveal!</summary>
     Hello
   </details>
 
