@@ -77,6 +77,7 @@ It should be noted that while the battle simulator and some other features work,
   This was a small project that I completed during my introductory programming class before being officially accepted into the BYU Information Systems program. I took an assignment to generate some numbers/text for a "yahtzee" game that would calculate the number of rolls until 6 of the same number are rolled and expanded on it by adding images, sounds, and some basic animations. While it is a simple application, I especially enjoyed using JavaScript to make the die images spin and change number until they landed on the desired output. NOTE: This page has not been optimized for mobile.
   
   **Repo**: https://github.com/justintlaw/justintlaw.github.io
+
   **Live URL**: https://justintlaw.github.io/yahtzee.html
 <!--
 **justintlaw/justintlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
