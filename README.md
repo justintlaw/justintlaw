@@ -68,7 +68,7 @@ It should be noted that while the battle simulator and some other features work,
 **Repo**: https://github.com/justintlaw/SpaceFleet
 </details>
 
-## Yahtzee - HTML and JavaScript
+## Yahtzee - HTML, CSS, and JavaScript
 
 <details>
   <summary>Click to expand!</summary>
