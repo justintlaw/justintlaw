@@ -44,7 +44,7 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 ### Infrastructure Diagram
   <details>
   <summary>Click to reveal!</summary>
-    <iframe src="https://drive.google.com/file/d/1kGMvCNPmk143cXAnXYWslEa3yqWsMoxQ/preview" width="640" height="480" allow="autoplay"></iframe>
+    ![alt text](https://github.com/justintlaw/justintlaw/blob/main/dreamjob_diagram.jpg?raw=true)
   </details>
 
 ### Related Repos:
