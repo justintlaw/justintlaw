@@ -60,7 +60,7 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
   <summary>Click to expand!</summary>
   
   ### Summary:
-  This was a short project that I completed over a few days in Fall 2021. It's main purpose was to learn how to implement a basic CI/CD pipeline through AWS. As time permits, more may be added such as automated testing of the API in the CI/CD pipeline. The API is written in Node.js and uses a DynamoDB dable as the database. Infrastructure was written as code using the AWS CDK.
+  This was a short project that I completed over a few days in Fall 2021. It's main purpose was to learn how to implement a basic CI/CD pipeline through AWS. As time permits, more may be added such as automated testing of the API in the CI/CD pipeline. The API is written in Node.js and uses a DynamoDB table as the database. Infrastructure was written as code using the AWS CDK.
   
 **Repo**: https://github.com/justintlaw/game-project
 </details>
