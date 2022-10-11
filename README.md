@@ -66,7 +66,7 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 - Database: https://github.com/justintlaw/dreamjob-db
 </details>
 
-## Game Project - Simple AWS Lambda/API Gateway service implementing a CI/CD pipeline
+## Game Project - AWS Lambda/API Gateway service implementing a CI/CD pipeline
 <details>
   <summary>Click to expand!</summary>
   
