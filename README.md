@@ -32,7 +32,7 @@ Over winter break at the end of 2021, I developed a "Pokedex" application that i
 <summary>Click to expand!</summary>
 
 ### Summary:
-Over the summer of 2021, I architectured and developed a full-stack project to increase my skills in a variety of areas. This has culminated in the "dreamjob" project, which is a basic app that allows the user to save jobs on the website, as well as make a "timeline" of their career using those jobs to visualize how their career could look like. The webapp is optimized for both desktop and mobile (with more extensive testing done on Windows and iOS).
+Over the summer of 2021, I architectured and developed a full-stack project to increase my skills in a variety of areas. This has culminated in the "dreamjob" project, which is a web app that allows the user to save jobs on the website, as well as make a "timeline" of their career using those jobs to visualize how their career could look like. The webapp is optimized for both desktop and mobile (with more extensive testing done on Windows and iOS).
 
 ### The Stack:
 Each stack is deployed individually using the AWS CDK in a "deploy" folder.
