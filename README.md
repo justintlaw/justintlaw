@@ -2,10 +2,10 @@
 
 ## Hello! 😄
 
-Thanks for visting my github! I am a passionate Software Developer and Master of Information Systems Management student at Brigham Young University Marriott School of Business.
+Thanks for visting my github! I am a passionate Software Developer and graduated with a Master of Information Systems Management from Brigham Young University.
 
 ### What interests me?
-I love developing solutions using cloud computing services such as Amazon Web Services (see content under "Dreamjob" for more). I am always excited to learn new technologies and utilize them to solve problems. In both my school work and personal projects, I work hard to fully understand the topics I am tackling, rather than just doing enough to get by.
+I love developing scalable Full Stack projects using cloud computing services such as Amazon Web Services (see content under "Dreamjob" for more). I am always excited to learn new technologies and utilize them to solve problems. I work hard to fully understand the topics I am tackling, rather than just doing enough to get by.
 
 ### What do I value?
 > Educating the mind without educating the heart is no education at all.
