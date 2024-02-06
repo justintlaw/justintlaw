@@ -15,17 +15,6 @@ As I strive to be successful, my goal is to always be mindful of my peers. It ha
 
 # My Projects
 
-## Pokedex - iOS Application using Swift 4, UIKit, and Storyboard
-
-<details>
-<summary>Click to expand!</summary>
-
-### Summary:
-Over winter break at the end of 2021, I developed a "Pokedex" application that is completely usable offline. The application allows the user to browse a list of 151 pokemon, search the list, tap on a pokemon to see more details, as well as the ability to search a list of moves for each pokemon. In order to gather the data, I wrote a python script to pull data from the pokeapi, and in the same script saved the data to a SQLite database for use in the iOS application.
-  
-**Repo**: https://github.com/justintlaw/Pokedex
-</details>
-
 ## Dreamjob - Full-stack project using AWS, Node.js, and Vuetify/Vue.js
 
 <details>
@@ -64,6 +53,17 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 - Frontend: https://github.com/justintlaw/dreamjob
 - API: https://github.com/justintlaw/dreamjob-api
 - Database: https://github.com/justintlaw/dreamjob-db
+</details>
+
+## Pokedex - iOS Application using Swift 4, UIKit, and Storyboard
+
+<details>
+<summary>Click to expand!</summary>
+
+### Summary:
+Over a winter break during school, I developed a "Pokedex" application that is completely usable offline. The application allows the user to browse a list of 151 pokemon, search the list, tap on a pokemon to see more details, as well as the ability to search a list of moves for each pokemon. In order to gather the data, I wrote a python script to pull data from the pokeapi, and in the same script saved the data to a SQLite database for use in the iOS application (that script was not saved to this repo, unfortunately).
+  
+**Repo**: https://github.com/justintlaw/Pokedex
 </details>
 
 ## Game Project - AWS Lambda/API Gateway service implementing a CI/CD pipeline
