@@ -61,7 +61,7 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
 <summary>Click to expand!</summary>
 
 ### Summary:
-Over a winter break during school, I developed a "Pokedex" application that is completely usable offline. The application allows the user to browse a list of 151 pokemon, search the list, tap on a pokemon to see more details, as well as the ability to search a list of moves for each pokemon. In order to gather the data, I wrote a python script to pull data from the pokeapi, and in the same script saved the data to a SQLite database for use in the iOS application (that script was not saved to this repo, unfortunately).
+Over a winter break during school, I developed a "Pokedex" application that is completely usable offline. The application allows the user to browse a list of 151 pokemon, search the list, tap on a pokemon to see more details, as well as the ability to search a list of moves for each pokemon. In order to gather the data, I wrote a python script to pull data from the pokeapi, and in the same script saved the data to a SQLite database for use in the iOS application (that script was not saved to this repo).
   
 **Repo**: https://github.com/justintlaw/Pokedex
 </details>
