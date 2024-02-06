@@ -2,7 +2,7 @@
 
 ## Hello! 😄
 
-Thanks for visting my github! I am a passionate Software Developer and graduated with a Master of Information Systems Management from Brigham Young University.
+Thanks for visting my github! I am a passionate Software Developer and a Master of Information Systems Management graduate from Brigham Young University.
 
 ### What interests me?
 I love developing scalable Full Stack projects using cloud computing services such as Amazon Web Services (see content under "Dreamjob" for more). I am always excited to learn new technologies and utilize them to solve problems. I work hard to fully understand the topics I am tackling, rather than just doing enough to get by.
