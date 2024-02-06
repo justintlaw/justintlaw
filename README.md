@@ -75,31 +75,6 @@ Each stack is deployed individually using the AWS CDK in a "deploy" folder.
   
 **Repo**: https://github.com/justintlaw/game-project
 </details>
-
-## Spacefleet - Console based application using Python
-
-<details>
-<summary>Click to expand!</summary>
-
-### Summary:
-I completed this project Fall 2020. It's purpose was to learn more of Python, and to use a variety of data structures in a console based application. The project is a simple game where the user manages their space fleet and sends it on cargo missions. A fleet can be attacked, and the majority of the programming for the project focused on the battle simulation that happens in the console using some formatting and loading bars to show the status of each fleet. Primarily the simulator uses a queue to process the guns of each ship so that they are all able to fire once during an iteration.
-
-It should be noted that while the battle simulator and some other features work, the project is not finished as I stopped once I was satisifed with what I had learned.
-
-**Repo**: https://github.com/justintlaw/SpaceFleet
-</details>
-
-## Yahtzee - HTML, CSS, and JavaScript
-
-<details>
-  <summary>Click to expand!</summary>
-  
-  ### Summary:
-  This was a small project that I completed during my introductory programming class before being officially accepted into the BYU Information Systems program. I took an assignment to generate some numbers/text for a "yahtzee" game that would calculate the number of rolls until 6 of the same number are rolled and expanded on it by adding images, sounds, and some basic animations. While it is a simple application, I especially enjoyed using JavaScript to make the die images spin and change number until they landed on the desired output. NOTE: This page has not been optimized for mobile.
-  
-  **Repo**: https://github.com/justintlaw/justintlaw.github.io
-
-  **Live URL**: https://justintlaw.github.io/yahtzee.html
 <!--
 **justintlaw/justintlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
